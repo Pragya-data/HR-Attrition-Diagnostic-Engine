@@ -64,3 +64,13 @@ Attrition Count = CALCULATE(COUNTROWS('HR_Attrition_Data'), 'HR_Attrition_Data'[
 Attrition Rate = DIVIDE([Attrition Count], [Total Employees], 0)
 
 Average Tenure = AVERAGE('HR_Attrition_Data'[Years_At_Company])
+```
+
+## 💻 How to Interact
+1. Download the `.pbix` file from this repository.
+2. Open with **Power BI Desktop**.
+3. Use the **Department** dropdown in the Deep Plum sidebar to filter the diagnostic matrix across R&D, Sales, and HR.
+4. Hover over individual data points in the Flight Risk Matrix to view specific employee profiles.
+
+---
+*Designed and Developed by **Pragya Singh Gour***
