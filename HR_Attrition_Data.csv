@@ -1,0 +1,21 @@
+Employee_ID,Age,Gender,Department,Job_Role,Years_At_Company,Salary_Hike_Pct,Overtime,Attrition
+EMP001,34,Male,Sales,Sales Executive,5,11,Yes,Yes
+EMP002,42,Female,R&D,Research Scientist,10,15,No,No
+EMP003,28,Male,Sales,Sales Representative,1,12,Yes,Yes
+EMP004,36,Female,R&D,Laboratory Technician,4,14,No,No
+EMP005,29,Male,HR,Recruiter,2,11,Yes,Yes
+EMP006,50,Female,Sales,Sales Manager,12,18,No,No
+EMP007,31,Male,R&D,Research Scientist,3,13,No,No
+EMP008,26,Female,R&D,Laboratory Technician,1,11,Yes,Yes
+EMP009,45,Male,HR,HR Manager,8,16,No,No
+EMP010,33,Female,Sales,Sales Executive,4,12,Yes,Yes
+EMP011,38,Male,R&D,Manufacturing Director,9,14,No,No
+EMP012,27,Female,Sales,Sales Representative,2,11,Yes,Yes
+EMP013,48,Male,R&D,Research Director,14,19,No,No
+EMP014,30,Female,R&D,Laboratory Technician,3,12,Yes,Yes
+EMP015,35,Male,Sales,Sales Executive,6,15,No,No
+EMP016,29,Female,R&D,Research Scientist,2,11,Yes,Yes
+EMP017,41,Male,HR,Recruiter,7,14,No,No
+EMP018,32,Female,Sales,Sales Executive,3,13,No,No
+EMP019,25,Male,Sales,Sales Representative,1,10,Yes,Yes
+EMP020,39,Female,R&D,Manufacturing Director,8,17,No,No
